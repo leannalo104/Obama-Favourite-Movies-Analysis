@@ -3,17 +3,17 @@
 
 ## Overview (TL;DR)
 
-This project is a data scraping and visualizaton exercise on Obama's annual year-end movie list. 
+This project is a data scraping and visualization exercise on Obama's annual year-end movie list. 
 
 - Data Source:  
   - List of movie names was scraped from https://www.yearendlists.com/
   - Corresponding movie information was scraped from Rotten Tomatoes or Wikipedia (the latter was used if not available on RT) using Beautiful Soup
   
-- Jupyer notebook/code: Done in Python
+- Jupyer notebook/code: Done in Python    *Note: Current file attached is the working file*
 
 - Visualization: 
-  - Graphs were obtained using Plotly with interactive dashboard visualization on the Dash application 
-  *Note: Current file attached is the working file*
+  - Graphs were created using Plotly, with interactive dashboard visualization using Dash  
+
 
 ## Data Scraping
 
