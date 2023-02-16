@@ -9,10 +9,11 @@ This project is a data scraping and visualizaton exercise on Obama's annual year
   - List of movie names was scraped from https://www.yearendlists.com/
   - Corresponding movie information was scraped from Rotten Tomatoes or Wikipedia (the latter was used if not available on RT) using Beautiful Soup
   
-- Visualization: 
-  - Conducted using Plotly, visible on html file attached *Note: Current file attached is the working file*
+- Jupyer notebook/code: Done in Python
 
-- Jupyer notebook/code: *Note: To be uploaded*
+- Visualization: 
+  - Graphs were obtained using Plotly with interactive dashboard visualization on the Dash application 
+  *Note: Current file attached is the working file*
 
 ## Data Scraping
 
@@ -33,9 +34,18 @@ As Obama typically publishes his list of movies on an image file, I first obtain
 
 Once all data was compiled, additional cleaning was done to separate movie information with multiple values into separate columns (i.e. if multiple producers, genres, etc. are listed). 
 
-## Final Visualization and Findings
 
-The final data was graphed and visualized using plotly. *Final file to be uploaded*
+## Data Visualization
+
+More to come...
+
+
+## Final Visualization
+
+Here is a walkthrough of my app:
+
+![Obama Dashboard](https://user-images.githubusercontent.com/104465263/219374690-3f5b1545-e394-4a73-b8f8-860cfe307e61.gif)
+
 
 
 ## Disclaimer
