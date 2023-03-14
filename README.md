@@ -52,5 +52,5 @@ Here is a walkthrough of my app:
 
 ## Disclaimer
 
-Please note that the data obtained from this project is for an amateur proejct and was not to be used for any financial or personal gain. 
+Please note that the data obtained from this project is for an amateur project and is not to be used for any financial or personal gain. 
 
