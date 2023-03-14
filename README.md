@@ -9,7 +9,9 @@ This project is a data scraping and visualization exercise on Obama's annual yea
   - List of movie names was scraped from https://www.yearendlists.com/
   - Corresponding movie information was scraped from Rotten Tomatoes or Wikipedia (the latter was used if not available on RT) using Beautiful Soup
   
-- Jupyer notebook/code: Done in Python    *Note: Current file attached is the working file*
+- Jupyer notebook/code: Done in Python, separated into 2 notebooks:
+i) Obama Favourites List - Web Scraping.ipynb 
+ii) Obama Favourites List - Plotly.ipynb
 
 - Visualization: 
   - Graphs were created using Plotly, with interactive dashboard visualization using Dash  
@@ -37,8 +39,8 @@ Once all data was compiled, additional cleaning was done to separate movie infor
 
 ## Data Visualization
 
-More to come...
-
+All graphs were visualized using Plotly and deployed on an interactive dashboard application using Dash. Dash is an open-source framework for building data visualization interfaces written on top of Plotly and React. 
+Dash apps are made interactive through Dash Callbacks, which for my mine is based on the selected year. The responsive app design and layout was built using Dash bootstrap components (documentation is available here: https://dash-bootstrap-components.opensource.faculty.ai/docs/).
 
 ## Final Visualization
 
